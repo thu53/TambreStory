@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Tambre has a dog named Peter. Peter is very lazy and loves to sleep on Tambre’s bed when she is at class, and has lived happily like this for nearly 2 semesters. However, one day, when Tambre woke up in the morning, she accidentally knocked Peter off her lofted bed! But instead of falling on the ground, Peter was transported to Africa and teleported onto a running giraffe! 
+… Until a hungry lion attacks the giraffe. Terrified little Peter sees his life with Tambre flash before his eyes. Little did anyone know that Peter is only a stuffed animal, and therefore, cannot die.
+=======
+
+Tambre has a dog named Peter. Peter is very lazy and loves to sleep on Tambre’s bed when she is at class, and has lived happily like this for nearly 2 semesters. However, one day, when Tambre woke up in the morning, she accidentally knocked Peter off her lofted bed! But instead of falling on the ground, Peter was transported to Africa and teleported onto a running giraffe!
+
+The giraffe was running so fast! Peter was a little scared, but the fun outweighed the terror. He opened his mouth and stuck his head up like he was in a car on the freeway. Peter felt amazing.
+>>>>>>> 04514a93c58fd2ecdc914d34b9c81063c926b6a8
 … Until a hungry lion attacks the giraffe. Terrified little Peter sees his life with Tambre flash before his eyes. Little did anyone know that Peter is only a stuffed animal, and therefore, cannot die.
