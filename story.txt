@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Tambre has a dog named Peter. Peter is very lazy and loves to sleep on Tambre’s bed when she is at class, and has lived happily like this for nearly 2 semesters. However, one day, when Tambre woke up in the morning, she accidentally knocked Peter off her lofted bed! But instead of falling on the ground, Peter was transported to Africa and teleported onto a running giraffe! 
-=======
-Tambre has a dog named Peter. Peter is very lazy and loves to sleep on Tambre’s bed when she is at class, and has lived happily like this for nearly 2 semesters. However, one day, when Tambre woke up in the morning, she accidentally knocked Peter off her lofted bed! But instead of falling on the ground, Peter was transported to Africa and teleported onto a running giraffe! 
->>>>>>> 263b26130e6ea980478e70039cfde2a7aaa17090
+
+Tambre has a dog named Peter. Peter is very lazy and loves to sleep on Tambre’s bed when she is at class, and has lived happily like this for nearly 2 semesters. However, one day, when Tambre woke up in the morning, she accidentally knocked Peter off her lofted bed! But instead of falling on the ground, Peter was transported to Africa and teleported onto a running giraffe!
